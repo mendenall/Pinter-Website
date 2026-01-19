@@ -840,3 +840,22 @@ body.scrollable.show-bottom .bottom-stack{
   white-space: normal;
   overflow-wrap: anywhere;
 }
+.hero-wrap {
+  display: inline-block;                  /* Shrinks to image size */
+  padding: 12px;                          /* Space for the gradient “border” */
+  border-radius: 20px;                     /* Rounded corners */
+  background: linear-gradient(135deg, #ff00b4, #00ffff); /* Your site gradient */
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25); /* Optional: subtle shadow */
+  transition: transform 0.3s ease;        /* Optional: hover effect */
+}
+
+.hero-wrap:hover {
+  transform: scale(1.02);                 /* Slight pop on hover */
+}
+
+.hero-img {
+  display: block;
+  border-radius: 16px;                     /* Slightly smaller than wrapper */
+  width: 100%;
+  height: auto;
+}
