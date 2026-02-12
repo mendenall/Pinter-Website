@@ -859,7 +859,7 @@ body.scrollable.show-bottom .bottom-stack{
 /* Mobile tuning */
 @media (max-width: 768px) {
   .tour-map-embed iframe {
-    height: 30vh;
+    height: 70vh;
     min-height: 200px;
   }
 }
