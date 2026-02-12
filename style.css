@@ -840,4 +840,27 @@ body.scrollable.show-bottom .bottom-stack{
   white-space: normal;
   overflow-wrap: anywhere;
 }
+.tour-map-embed {
+  width: 100%;
+  margin-bottom: 0rem;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #000;
+}
+
+/* Desktop height */
+.tour-map-embed iframe {
+  width: 100%;
+  height: 70vh;
+  min-height: 420px;
+  border: none;
+}
+
+/* Mobile tuning */
+@media (max-width: 768px) {
+  .tour-map-embed iframe {
+    height: 55vh;
+    min-height: 320px;
+  }
+}
 
