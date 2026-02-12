@@ -1,0 +1,6740 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2026-01-02",
+        "venue": "Full Circle Brews",
+        "city": "Brighton, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.618311,
+          42.721061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-12-27",
+        "venue": "The Distant Whistle Brewhouse",
+        "city": "Vicksburg, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.530961,
+          42.119956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-12-20",
+        "venue": "Suburban Lanes",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.030836,
+          42.589532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-12-19",
+        "venue": "Snowbelt Brewing Co.",
+        "city": "Gaylord, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.677146,
+          45.027388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-12-18",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-12-18",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-12-13",
+        "venue": "Urban Beat",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-12-11",
+        "venue": "Ogma Brewing Co.",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.246504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-12-06",
+        "venue": "Benny's Bierhalle",
+        "city": "Millington, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52981,
+          43.281339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-12-06",
+        "venue": "Benny's Bierhalle",
+        "city": "Millington, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52981,
+          43.281339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-12-05",
+        "venue": "Summerlands Brewing Company",
+        "city": "Holt, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.522069,
+          42.643566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-11-28",
+        "venue": "Bronson Park",
+        "city": "Kalamazoo, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54219,
+          42.279826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-11-22",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-11-21",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-09-06",
+        "venue": "The Distant Whistle Brewhouse",
+        "city": "Vicksburg, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.530961,
+          42.119956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-09-05",
+        "venue": "Cheboygan Brewing Company",
+        "city": "Cheboygan, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.474809,
+          45.646843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-31",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-31",
+        "venue": "Private Event",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-30",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-29",
+        "venue": "Northshore Lounge LLC",
+        "city": "Houghton Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.764496,
+          44.31473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-23",
+        "venue": "Fenton Hotel Tavern & Grille",
+        "city": "Fenton, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.72949,
+          42.6812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-22",
+        "venue": "Fenton Hotel Tavern & Grille",
+        "city": "Fenton, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.72949,
+          42.6812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-17",
+        "venue": "Private Event",
+        "city": "Waterford, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.402853,
+          42.702231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-16",
+        "venue": "Private Event",
+        "city": "Grand Ledge, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.746364,
+          42.752328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-15",
+        "venue": "Saginaw Bay Yacht Club",
+        "city": "Essexville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.777325,
+          43.618705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-13",
+        "venue": "The Cascades",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.426926,
+          42.236454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-12",
+        "venue": "Bel Lago Vineyards & Winery",
+        "city": "Cedar, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.795008,
+          44.847431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-10",
+        "venue": "Boathouse Vineyards",
+        "city": "Lake Leelanau, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.713546,
+          44.980996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-09",
+        "venue": "Ox Roast Day",
+        "city": "Clarksville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.242576,
+          42.842132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-08",
+        "venue": "Benny's Bierhalle",
+        "city": "Millington, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52981,
+          43.281339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-03",
+        "venue": "Blue Water SandFest",
+        "city": "Port Huron, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.422179,
+          42.977462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-02",
+        "venue": "Private Event",
+        "city": "Mesick, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.713522,
+          44.405687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-08-01",
+        "venue": "Cheboygan Brewing Company",
+        "city": "Cheboygan, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.474809,
+          45.646843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-07-31",
+        "venue": "Hart Commons",
+        "city": "Hart, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.361117,
+          43.699618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-07-19",
+        "venue": "Old Bull Bourbon Bar",
+        "city": "Eaton Rapids, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.655799,
+          42.511569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-07-19",
+        "venue": "Pewabic Pottery",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.046217,
+          42.331397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-07-18",
+        "venue": "Ann Street Plaza",
+        "city": "East Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.475595,
+          42.735418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-07-12",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-07-11",
+        "venue": "Venue by 4M",
+        "city": "Ann Arbor, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.212366,
+          42.322924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-07-10",
+        "venue": "Fenn Valley Vineyards",
+        "city": "Fennville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10438,
+          42.594272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-07-08",
+        "venue": "Bel Lago Vineyards & Winery",
+        "city": "Cedar, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.795008,
+          44.847431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-07-06",
+        "venue": "Boathouse Vineyards",
+        "city": "Lake Leelanau, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.713546,
+          44.980996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-07-05",
+        "venue": "Secord Lake Eagles",
+        "city": "Gladwin, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34772,
+          44.015125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-07-02",
+        "venue": "Gilmore Car Museum",
+        "city": "Hickory Corners, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.376063,
+          42.44154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-28",
+        "venue": "Little River Casino Resort and Hotel",
+        "city": "Manistee, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.323924,
+          44.244109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-27",
+        "venue": "Sandhill Crane Vineyards",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-26",
+        "venue": "Life Time",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-24",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-21",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-20",
+        "venue": "Summerlands Brewing Company",
+        "city": "Holt, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.522069,
+          42.643566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-15",
+        "venue": "Toledo Executive Airport",
+        "city": "Millbury, OH United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.424919,
+          41.565892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-14",
+        "venue": "Full Circle Brews",
+        "city": "Brighton, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.618311,
+          42.721061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-13",
+        "venue": "Suburban Lanes",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.030836,
+          42.589532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-13",
+        "venue": "Bronson Park",
+        "city": "Kalamazoo, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54219,
+          42.279826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-07",
+        "venue": "Oakwood Resort",
+        "city": "Syracuse, IN United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752731,
+          41.427761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-06",
+        "venue": "Benny's Bierhalle",
+        "city": "Millington, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52981,
+          43.281339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-06-05",
+        "venue": "Lansing Brewing Company",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59115,
+          42.736507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-03-29",
+        "venue": "Private Party",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-03-28",
+        "venue": "Benny's Bierhalle",
+        "city": "Millington, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52981,
+          43.281339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-03-17",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-03-16",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-03-15",
+        "venue": "Bad Brewing Company",
+        "city": "Mason, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.443139,
+          42.579196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-03-14",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-03-07",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-03-01",
+        "venue": "Jordan Inn",
+        "city": "East Jordan, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.134738,
+          45.151858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-02-28",
+        "venue": "Snowbelt Brewing Co.",
+        "city": "Gaylord, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.677146,
+          45.027388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-02-22",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-02-21",
+        "venue": "The Distant Whistle Brewhouse",
+        "city": "Vicksburg, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.530961,
+          42.119956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-02-15",
+        "venue": "Saginaw Bay Yacht Club",
+        "city": "Essexville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.777325,
+          43.618705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-02-15",
+        "venue": "Saginaw Bay Yacht Club",
+        "city": "Essexville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.777325,
+          43.618705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-02-14",
+        "venue": "Summerlands Brewing Company",
+        "city": "Holt, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.522069,
+          42.643566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-02-08",
+        "venue": "Fenton Hotel Tavern & Grille",
+        "city": "Fenton, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.72949,
+          42.6812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-02-07",
+        "venue": "Fenton Hotel Tavern & Grille",
+        "city": "Fenton, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.72949,
+          42.6812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-01-31",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-01-25",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-01-24",
+        "venue": "Benny's Bierhalle",
+        "city": "Millington, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52981,
+          43.281339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2025-01-24",
+        "venue": "Benny's Bierhalle",
+        "city": "Millington, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52981,
+          43.281339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-12-28",
+        "venue": "Private Event",
+        "city": "Algonac, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.530514,
+          42.618858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-12-27",
+        "venue": "Full Circle Brews",
+        "city": "Brighton, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.618311,
+          42.721061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-12-22",
+        "venue": "AXIS Lounge",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.132785,
+          42.303719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-12-21",
+        "venue": "Sandhill Crane Vineyards",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-12-20",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-12-19",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-12-14",
+        "venue": "127 Brewing",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-12-13",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-12-07",
+        "venue": "Saginaw Bay Yacht Club",
+        "city": "Essexville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.777325,
+          43.618705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-11-30",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-11-29",
+        "venue": "SandHill",
+        "city": "Marshall, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.961216,
+          42.272034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-11-27",
+        "venue": "Oakwood Resort",
+        "city": "Syracuse, IN United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752731,
+          41.427761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-10-26",
+        "venue": "Cheboygan Brewing Company",
+        "city": "Cheboygan, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.474809,
+          45.646843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-10-25",
+        "venue": "Mash",
+        "city": "Ypsilanti, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.566427,
+          42.232078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-10-19",
+        "venue": "Private Event",
+        "city": "Livonia, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.352462,
+          42.368709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-10-18",
+        "venue": "SandHill",
+        "city": "Marshall, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.961216,
+          42.272034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-10-12",
+        "venue": "Private Wedding",
+        "city": "Cheboygan, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.474809,
+          45.646843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-10-11",
+        "venue": "Venue by 4M",
+        "city": "Ann Arbor, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.212366,
+          42.322924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-10-05",
+        "venue": "Private Event",
+        "city": "Laingsburg, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.352087,
+          42.890814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-10-04",
+        "venue": "Ironbark Brewing Company",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-09-28",
+        "venue": "Private Event",
+        "city": "Negaunee, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.611846,
+          46.499465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-09-27",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-09-26",
+        "venue": "Private Event",
+        "city": "Grand Rapids, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.670181,
+          42.966386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-09-22",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-09-21",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-09-20",
+        "venue": "Private Event",
+        "city": "Secord, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34772,
+          44.015125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-09-13",
+        "venue": "Detroit Shipping Company",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.924711,
+          42.401257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-09-07",
+        "venue": "Oakwood Resort",
+        "city": "Syracuse, IN United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752731,
+          41.427761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-09-06",
+        "venue": "Sandhill Crane Vineyards",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-09-01",
+        "venue": "Private Event",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-31",
+        "venue": "Cheboygan Brewing Company",
+        "city": "Cheboygan, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.474809,
+          45.646843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-30",
+        "venue": "Bonobo Winery",
+        "city": "Traverse City, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.621014,
+          44.762912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-29",
+        "venue": "Stormcloud Parkview Taproom",
+        "city": "Frankfort, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.222438,
+          44.636476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-28",
+        "venue": "French Valley Vineyard",
+        "city": "Cedar, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.795008,
+          44.847431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-25",
+        "venue": "Boathouse Vineyards",
+        "city": "Lake Leelanau, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.713546,
+          44.980996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-24",
+        "venue": "Fenton Hotel Tavern & Grille",
+        "city": "Fenton, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.72949,
+          42.6812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-23",
+        "venue": "Fenton Hotel Tavern & Grille",
+        "city": "Fenton, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.72949,
+          42.6812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-21",
+        "venue": "Allen Neighborhood Center",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-17",
+        "venue": "Suburban Lanes",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.030836,
+          42.589532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-16",
+        "venue": "Handmap Brewing",
+        "city": "Battle Creek, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.179956,
+          42.316616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-11",
+        "venue": "Private Event",
+        "city": "Waterford, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.402853,
+          42.702231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-10",
+        "venue": "Little River Casino Resort and Hotel",
+        "city": "Manistee, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.323924,
+          44.244109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-08",
+        "venue": "Benny's Bierhalle",
+        "city": "Millington, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52981,
+          43.281339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-04",
+        "venue": "127 Brewing",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-03",
+        "venue": "Private Party",
+        "city": "Rapid City, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.282761,
+          44.83433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-02",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-08-01",
+        "venue": "Boot Jack Tavern",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-31",
+        "venue": "Cleats Bar & Grille",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.096504,
+          42.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-28",
+        "venue": "Private Event",
+        "city": "Grass Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.999229,
+          43.945244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-27",
+        "venue": "Bad Brewing Company",
+        "city": "Mason, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.443139,
+          42.579196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-26",
+        "venue": "Bonobo Winery",
+        "city": "Traverse City, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.621014,
+          44.762912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-25",
+        "venue": "Odmark Performance Pavilion",
+        "city": "Charlevoix, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.258738,
+          45.317081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-24",
+        "venue": "Bridge Street - Charlevoix, MI",
+        "city": "Charlevoix, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.23777,
+          45.32573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-19",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-18",
+        "venue": "Nelson Gallery",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-14",
+        "venue": "Toledo Executive Airport",
+        "city": "Millbury, OH United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.424919,
+          41.565892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-13",
+        "venue": "Secord Lake Eagles",
+        "city": "Gladwin, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34772,
+          44.015125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-13",
+        "venue": "2024 Scrapfest",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48379,
+          42.736026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-12",
+        "venue": "Bronson Park",
+        "city": "Kalamazoo, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54219,
+          42.279826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-10",
+        "venue": "Allen Neighborhood Center",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-08",
+        "venue": "French Valley Vineyard",
+        "city": "Cedar, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.795008,
+          44.847431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-07",
+        "venue": "Boathouse Vineyards",
+        "city": "Lake Leelanau, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.713546,
+          44.980996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-06",
+        "venue": "Devils Lake Yacht Club",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.29269,
+          42.008106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-06",
+        "venue": "Pewabic Pottery",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.046217,
+          42.331397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-05",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-07-03",
+        "venue": "Private Event",
+        "city": "Waterford, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.402853,
+          42.702231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-06-29",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-06-28",
+        "venue": "Sandhill Crane Vineyards",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-06-27",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-06-22",
+        "venue": "Cheboygan Brewing Company",
+        "city": "Cheboygan, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.474809,
+          45.646843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-06-21",
+        "venue": "Claude Shannon Park",
+        "city": "Gaylord, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.677146,
+          45.027388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-06-15",
+        "venue": "Suburban Lanes",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.030836,
+          42.589532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-06-14",
+        "venue": "Furnace Street Distillery",
+        "city": "Elberta, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.236393,
+          44.627472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-06-13",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-06-09",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-06-08",
+        "venue": "The Cascades",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.426926,
+          42.236454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-06-07",
+        "venue": "The Distant Whistle Brewhouse",
+        "city": "Vicksburg, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.530961,
+          42.119956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-03-30",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-03-29",
+        "venue": "The Distant Whistle Brewhouse",
+        "city": "Vicksburg, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.530961,
+          42.119956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-03-23",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-03-17",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-03-16",
+        "venue": "Bad Brewing Company",
+        "city": "Mason, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.443139,
+          42.579196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-03-15",
+        "venue": "Ironbark Brewing Company",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-03-10",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-03-08",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-03-02",
+        "venue": "127 Brewing",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-02-24",
+        "venue": "The Workshop Brewing Company",
+        "city": "Traverse City, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.621014,
+          44.762912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-02-23",
+        "venue": "Full Circle Brews",
+        "city": "Brighton, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.618311,
+          42.721061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-02-22",
+        "venue": "Ogma Brewing Co.",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.246504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-02-17",
+        "venue": "Saginaw Bay Yacht Club",
+        "city": "Essexville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.777325,
+          43.618705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-02-16",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-02-03",
+        "venue": "Cheboygan Brewing Company",
+        "city": "Cheboygan, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.474809,
+          45.646843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-02-02",
+        "venue": "Boot Jack Tavern",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-01-27",
+        "venue": "127 Brewing",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-01-20",
+        "venue": "Benny's Bierhalle",
+        "city": "Millington, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52981,
+          43.281339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-01-19",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2024-01-06",
+        "venue": "Ironbark Brewing Company",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-12-28",
+        "venue": "Private Event",
+        "city": "Waterford, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.402853,
+          42.702231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-12-23",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-12-22",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-12-15",
+        "venue": "Snowbelt Brewing Co.",
+        "city": "Gaylord, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.677146,
+          45.027388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-12-14",
+        "venue": "Ogma Brewing Co.",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.246504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-12-09",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-12-08",
+        "venue": "127 Brewing",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-12-01",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-12-01",
+        "venue": "Michigan By The Bottle Tasting Room",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-11-25",
+        "venue": "Ironbark Brewing Company",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-11-22",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-11-17",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-11-11",
+        "venue": "127 Brewing",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-11-10",
+        "venue": "Bonobo Winery",
+        "city": "Traverse City, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.621014,
+          44.762912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-11-04",
+        "venue": "Oakwood Resort",
+        "city": "Syracuse, IN United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752731,
+          41.427761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-11-03",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-10-29",
+        "venue": "Sandhill Crane Vineyards",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-10-28",
+        "venue": "Cheboygan Brewing Company",
+        "city": "Cheboygan, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.474809,
+          45.646843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-10-27",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-10-25",
+        "venue": "Allen Neighborhood Center",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-10-22",
+        "venue": "Fenner Nature Center",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-10-21",
+        "venue": "Bad Brewing Company",
+        "city": "Mason, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.443139,
+          42.579196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-09-16",
+        "venue": "Charlie's Bar & Grill",
+        "city": "Potterville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.556672,
+          42.156562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-09-15",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-09-09",
+        "venue": "Secord Lake Eagles",
+        "city": "Gladwin, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34772,
+          44.015125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-09-08",
+        "venue": "Saginaw Bay Yacht Club",
+        "city": "Essexville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.777325,
+          43.618705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-09-07",
+        "venue": "Cheboygan Brewing Company",
+        "city": "Cheboygan, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.474809,
+          45.646843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-09-03",
+        "venue": "Private Event",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-09-02",
+        "venue": "Boot Jack Tavern",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-09-01",
+        "venue": "Ironbark Brewing Company",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-31",
+        "venue": "45 North Vineyard & Winery",
+        "city": "Lake Leelanau, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.681596,
+          45.001959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-26",
+        "venue": "Boot Jack Tavern",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-25",
+        "venue": "Rogers Plaza Town Center",
+        "city": "Wyoming, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70526,
+          42.913514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-24",
+        "venue": "Ogma Brewing Co.",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.246504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-18",
+        "venue": "Furnace Street Distillery",
+        "city": "Elberta, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.236393,
+          44.627472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-17",
+        "venue": "Ann Street Plaza",
+        "city": "East Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.475595,
+          42.735418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-16",
+        "venue": "Prairie Ronde Artist Gallery",
+        "city": "Vicksburg, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.964869,
+          42.106075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-13",
+        "venue": "Boathouse Vineyards",
+        "city": "Lake Leelanau, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.713546,
+          44.980996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-12",
+        "venue": "Fabiano's River House Bar & Grill",
+        "city": "Portland, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.902392,
+          42.870475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-08",
+        "venue": "Reutter Park",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.546609,
+          42.704086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-05",
+        "venue": "Oakwood Resort",
+        "city": "Syracuse, IN United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752731,
+          41.427761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-05",
+        "venue": "Ruthmere Museum Campus",
+        "city": "Elkhart, IN United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.973384,
+          41.683775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-08-03",
+        "venue": "Portland Bandshell",
+        "city": "Portland, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.91341,
+          42.88242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-30",
+        "venue": "Boathouse Vineyards",
+        "city": "Lake Leelanau, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.713546,
+          44.980996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-29",
+        "venue": "Bad Brewing Company",
+        "city": "Mason, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.443139,
+          42.579196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-28",
+        "venue": "Fabiano's River House Bar & Grill",
+        "city": "Portland, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.902392,
+          42.870475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-27",
+        "venue": "45 North Vineyard & Winery",
+        "city": "Lake Leelanau, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.681596,
+          45.001959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-22",
+        "venue": "Boot Jack Tavern",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-21",
+        "venue": "Ironbark Brewing Company",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-19",
+        "venue": "Odmark Performance Pavilion",
+        "city": "Charlevoix, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.258738,
+          45.317081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-15",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-14",
+        "venue": "Furnace Street Distillery",
+        "city": "Elberta, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.236393,
+          44.627472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-13",
+        "venue": "Nelson Gallery",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-09",
+        "venue": "Lakewood Park",
+        "city": "Tecumseh, ON Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.886284,
+          42.311817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-08",
+        "venue": "ConfluxCity Brewing Company",
+        "city": "Portland, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.902392,
+          42.870475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-07",
+        "venue": "Sandhill Crane Vineyards",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-06",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-04",
+        "venue": "The River House Bar & Grill",
+        "city": "Gladwin, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.491863,
+          43.980738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-07-01",
+        "venue": "Secord Lake Eagles",
+        "city": "Gladwin, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34772,
+          44.015125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-30",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-29",
+        "venue": "Nelson Gallery",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-28",
+        "venue": "Allen Neighborhood Center",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-25",
+        "venue": "Boathouse Vineyards",
+        "city": "Lake Leelanau, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.713546,
+          44.980996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-24",
+        "venue": "The Cascades",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.426926,
+          42.236454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-23",
+        "venue": "The Workshop Brewing Company",
+        "city": "Traverse City, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.621014,
+          44.762912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-22",
+        "venue": "Hart Commons",
+        "city": "Hart, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.361117,
+          43.699618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-17",
+        "venue": "Boot Jack Tavern",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-16",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-15",
+        "venue": "Fenn Valley Vineyards",
+        "city": "Fennville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10438,
+          42.594272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-11",
+        "venue": "Private Event",
+        "city": "Millbury, OH United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.424919,
+          41.565892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-10",
+        "venue": "Cheboygan Brewing Company",
+        "city": "Cheboygan, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.474809,
+          45.646843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-09",
+        "venue": "Furnace Street Distillery",
+        "city": "Elberta, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.236393,
+          44.627472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-04",
+        "venue": "Tin Roof Detroit",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.924711,
+          42.401257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-03",
+        "venue": "Bad Brewing Company",
+        "city": "Mason, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.443139,
+          42.579196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-06-02",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-05-27",
+        "venue": "Ogma Brewing Co.",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.246504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-05-27",
+        "venue": "Ogma Brewing Co.",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.246504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-05-26",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-05-20",
+        "venue": "HomeGrown Brewing Company",
+        "city": "Oakland County, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29132,
+          42.639076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-05-19",
+        "venue": "Ironbark Brewing Company",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-05-17",
+        "venue": "Sandhill Crane Vineyards",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-05-13",
+        "venue": "Boot Jack Tavern",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-05-12",
+        "venue": "Fabiano's River House Bar & Grill",
+        "city": "Portland, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.902392,
+          42.870475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-05-10",
+        "venue": "Royal Oak Farmers Market",
+        "city": "Royal Oak, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.144294,
+          42.489827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-05-06",
+        "venue": "The River House Bar & Grill",
+        "city": "Gladwin, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.491863,
+          43.980738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-05-05",
+        "venue": "The Cabin",
+        "city": "Mount Pleasant, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.76758,
+          43.597186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-05-04",
+        "venue": "Grand River Brewery - Jackson",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.168148,
+          42.380494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-03-17",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-03-16",
+        "venue": "Moriarty's Pub",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-03-12",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-03-11",
+        "venue": "Bad Brewing Company",
+        "city": "Mason, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.443139,
+          42.579196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-03-10",
+        "venue": "Snowbelt Brewing Co.",
+        "city": "Gaylord, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.677146,
+          45.027388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-03-04",
+        "venue": "Ironbark Brewing Company",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-01-20",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2023-01-13",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-12-31",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-12-30",
+        "venue": "Snowbelt Brewing Co.",
+        "city": "Gaylord, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.677146,
+          45.027388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-12-29",
+        "venue": "Ogma Brewing Co.",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.246504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-12-28",
+        "venue": "Stormcloud Brewing Company",
+        "city": "Frankfort, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.237852,
+          44.632519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-12-17",
+        "venue": "Village of Ashley Country Christmas",
+        "city": "Ashley, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.475171,
+          43.186543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-12-16",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-12-10",
+        "venue": "Village of Ashley Country Christmas",
+        "city": "Ashley, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.475171,
+          43.186543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-12-03",
+        "venue": "Village of Ashley Country Christmas",
+        "city": "Ashley, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.475171,
+          43.186543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-12-02",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-12-02",
+        "venue": "Michigan By The Bottle Tasting Room",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-11-26",
+        "venue": "The River House Bar & Grill",
+        "city": "Gladwin, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.491863,
+          43.980738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-11-19",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-11-17",
+        "venue": "Sandhill Crane Vineyards",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-11-12",
+        "venue": "VFW Post 701",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.09382,
+          42.312956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-11-11",
+        "venue": "Ironbark Brewing Company",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-11-10",
+        "venue": "Ogma Brewing Co.",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.246504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-09-24",
+        "venue": "Boot Jack Tavern",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-09-23",
+        "venue": "Sandhill Crane Vineyards",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-09-22",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-09-11",
+        "venue": "Stober's Bar",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-09-09",
+        "venue": "Fabiano's River House Bar & Grill",
+        "city": "Portland, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.902392,
+          42.870475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-08-19",
+        "venue": "Conkling Heritage Park",
+        "city": "Mackinaw City, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.727703,
+          45.780408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-08-18",
+        "venue": "Stormcloud Brewing Company",
+        "city": "Frankfort, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.237852,
+          44.632519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-08-17",
+        "venue": "Bates Alley",
+        "city": "Kalamazoo, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.580057,
+          42.292112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-08-13",
+        "venue": "Coolidge Cabin",
+        "city": "Secord, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34772,
+          44.015125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-08-12",
+        "venue": "Fabiano's River House Bar & Grill",
+        "city": "Portland, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.902392,
+          42.870475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-08-12",
+        "venue": "Bronson Park",
+        "city": "Kalamazoo, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54219,
+          42.279826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-08-06",
+        "venue": "Pour Bros. Craft Taproom Moline",
+        "city": "Moline, IL United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.514373,
+          41.505749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-07-30",
+        "venue": "Ironbark Brewing Company",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-07-29",
+        "venue": "Friendship Park",
+        "city": "Battle Creek, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.179956,
+          42.316616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-07-24",
+        "venue": "Stober's Bar",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-07-23",
+        "venue": "Bad Brewing Company",
+        "city": "Mason, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.443139,
+          42.579196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-07-22",
+        "venue": "Classic Pub & Grill",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.096504,
+          42.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-07-16",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-07-14",
+        "venue": "Fenn Valley Vineyards",
+        "city": "Fennville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10438,
+          42.594272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-07-09",
+        "venue": "Fabiano's River House Bar & Grill",
+        "city": "Portland, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.902392,
+          42.870475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-07-08",
+        "venue": "Saginaw Bay Yacht Club",
+        "city": "Essexville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.777325,
+          43.618705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-07-04",
+        "venue": "Oakwood Resort",
+        "city": "Syracuse, IN United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752731,
+          41.427761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-07-02",
+        "venue": "Private Party",
+        "city": "Kalamazoo, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.584752,
+          42.291649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-06-27",
+        "venue": "Dow Gardens",
+        "city": "Midland, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.179812,
+          43.605956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-06-25",
+        "venue": "Fraternal Order of Eagles",
+        "city": "Gladwin, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.491863,
+          43.980738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-06-24",
+        "venue": "Sault Ste. Marie Country Club",
+        "city": "Sault Ste. Marie, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.366048,
+          46.495779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-06-18",
+        "venue": "Moriarty's Pub",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-06-17",
+        "venue": "Fabiano's River House Bar & Grill",
+        "city": "Portland, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.902392,
+          42.870475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-06-11",
+        "venue": "Boot Jack Tavern",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-06-03",
+        "venue": "DDA Amphiteater",
+        "city": "Middleville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.463809,
+          42.71197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-05-14",
+        "venue": "Boot Jack Tavern",
+        "city": "Manitou Beach-Devils Lake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.309462,
+          41.969922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-05-13",
+        "venue": "Claude Shannon Park",
+        "city": "Gaylord, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.677146,
+          45.027388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-05-12",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-05-07",
+        "venue": "Fabiano's River House Bar & Grill",
+        "city": "Portland, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.902392,
+          42.870475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-05-06",
+        "venue": "Oakwood Resort",
+        "city": "Syracuse, IN United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752731,
+          41.427761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-03-17",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-03-15",
+        "venue": "Stober's Bar",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-03-13",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-03-12",
+        "venue": "Bad Brewing Company",
+        "city": "Mason, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.443139,
+          42.579196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2022-02-24",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-12-31",
+        "venue": "Fraternal Order of Eagles",
+        "city": "Gladwin, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.491863,
+          43.980738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-12-10",
+        "venue": "Snowbelt Brewing Co.",
+        "city": "Gaylord, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.677146,
+          45.027388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-11-23",
+        "venue": "Stober's Bar",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-10-21",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-10-20",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-10-16",
+        "venue": "Bad Brewing Company",
+        "city": "Mason, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.443139,
+          42.579196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-10-15",
+        "venue": "Snowbelt Brewing Co.",
+        "city": "Gaylord, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.677146,
+          45.027388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-10-09",
+        "venue": "Detroit Riverfront Conservancy",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.924711,
+          42.401257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-10-08",
+        "venue": "Fraternal Order of Eagles",
+        "city": "Gladwin, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.491863,
+          43.980738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-09-19",
+        "venue": "Saint Joseph School",
+        "city": "Battle Creek, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.226249,
+          42.299709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-09-18",
+        "venue": "Kalamazoo Mall Market",
+        "city": "Kalamazoo, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.583364,
+          42.292893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-09-16",
+        "venue": "Fenn Valley Vineyards",
+        "city": "Fennville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10438,
+          42.594272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-09-11",
+        "venue": "Private Event",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33542,
+          42.68788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-09-09",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-09-03",
+        "venue": "Downtown Royal Oak",
+        "city": "Royal Oak, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.144294,
+          42.489827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-09-02",
+        "venue": "Pond Jam",
+        "city": "Rapid City, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.282761,
+          44.83433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-08-27",
+        "venue": "Fraternal Order of Eagles",
+        "city": "Gladwin, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.491863,
+          43.980738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-08-21",
+        "venue": "Private Event - Troy, MI",
+        "city": "Troy, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.143487,
+          42.542235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-08-20",
+        "venue": "Snowbelt Brewing Co.",
+        "city": "Gaylord, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.677146,
+          45.027388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-08-14",
+        "venue": "Private Event",
+        "city": "Dimondale, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.648927,
+          42.645737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-08-13",
+        "venue": "Sandhill Crane Vineyards",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-08-11",
+        "venue": "Allen Neighborhood Center",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-07-29",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-07-22",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-07-17",
+        "venue": "Bad Brewing Company",
+        "city": "Mason, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.443139,
+          42.579196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-07-15",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-07-14",
+        "venue": "Fenn Valley Vineyards",
+        "city": "Fennville, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10438,
+          42.594272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-07-10",
+        "venue": "Private Event",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.33542,
+          42.68788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-07-08",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-07-01",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-06-24",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-06-17",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-06-16",
+        "venue": "Allen Neighborhood Center",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553879,
+          42.734618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-06-15",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-06-10",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-06-09",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-06-03",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-06-02",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-05-27",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-05-20",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-05-13",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-05-12",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-05-06",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-04-29",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-04-28",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-04-23",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-04-15",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-04-09",
+        "venue": "Food Truck Rally",
+        "city": "Kalamazoo, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.584752,
+          42.291649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-04-08",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-04-07",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-04-01",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-03-25",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-03-25",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-03-24",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-03-18",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-03-11",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-03-10",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-03-04",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-03-03",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-02-25",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-02-24",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-02-18",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-02-17",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-02-11",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-02-10",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-02-04",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-02-03",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-01-29",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-01-27",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-01-20",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-01-15",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-01-13",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2021-01-06",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-12-30",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-12-23",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-12-14",
+        "venue": "Private Event",
+        "city": "East Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48379,
+          42.736026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-12-11",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-12-09",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-12-04",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-12-02",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-11-25",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-11-13",
+        "venue": "Michigan By The Bottle Tasting Room-Royal Oak",
+        "city": "Royal Oak, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.144194,
+          42.487278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-11-12",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-11-11",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-11-06",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-11-05",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-11-04",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-10-30",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-10-29",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-10-23",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-10-22",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-10-16",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-10-15",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-10-10",
+        "venue": "Private Event",
+        "city": "Clarklake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34515,
+          42.116834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-10-08",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-10-07",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-10-01",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-09-30",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-09-27",
+        "venue": "Private Event",
+        "city": "Howell, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.91649,
+          42.62171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-09-24",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-09-23",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-09-20",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-09-17",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-09-11",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40712,
+          42.246577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-09-10",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-09-09",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-09-03",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-09-02",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-08-30",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-08-27",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-08-26",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-08-21",
+        "venue": "Kalamazoo Mall Market",
+        "city": "Kalamazoo, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.583364,
+          42.292893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-08-20",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-08-19",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-08-13",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-08-12",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-08-06",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-08-05",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-07-30",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-07-29",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-07-23",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-07-22",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-07-16",
+        "venue": "Blue Skies Brewery-Auburn Hills",
+        "city": "Auburn Hills, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.235716,
+          42.687075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2020-07-15",
+        "venue": "Live Stream",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182578,
+          42.26883
+        ]
+      }
+    }
+  ]
+}
