@@ -92,12 +92,14 @@
     }
 
     /* MOBILE TWEAK */
-    @media (max-width: 600px) {
+    @media (max-width: 900px) {
       .controls {
-        width: 90%;
         justify-content: center;
+            /* Move to bottom */
+        top: auto;       /* unset top */
+        bottom: 0px;    /* adjust spacing from bottom as needed */
+
       }
-    }
   </style>
 
 </head>
