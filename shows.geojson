@@ -19,6 +19,21 @@
     {
       "type": "Feature",
       "properties": {
+        "date": "2026-2-14",
+        "venue": "The Bus Stop",
+        "city": "Birch Run, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.79108574048405,
+          43.278749116028514  
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "date": "2025-12-27",
         "venue": "The Distant Whistle Brewhouse",
         "city": "Vicksburg, MI United States"
