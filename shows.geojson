@@ -19,7 +19,7 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2026-2-14",
+        "date": "2026-02-14",
         "venue": "The Bus Stop",
         "city": "Birch Run, MI United States"
       },
@@ -28,6 +28,66 @@
         "coordinates": [
           -83.79108574048405,
           43.278749116028514  
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2026-03-07",
+        "venue": "Benny's Bierhalle",
+        "city": "Millington, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.52981,
+          43.281339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2026-03-06",
+        "venue": "Soaring Eagle Casino and Resort",
+        "city": "Mount Pleasant, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.713537, 
+          43.609072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2026-02-20",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2026-02-21",
+        "venue": "Private Event",
+        "city": "Jackson, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.431057,   
+          42.226825
         ]
       }
     },
