@@ -11,8 +11,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.618311,
-          42.721061
+          -83.784096,
+          42.5353477
         ]
       }
     },
@@ -43,6 +43,51 @@
         "coordinates": [
           -83.52981,
           43.281339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2026-03-14",
+        "venue": "The Irish Pub",
+        "city": "Lansing, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.577992,
+          42.7431549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2026-03-15",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2026-03-17",
+        "venue": "Nemo's Bar",
+        "city": "Detroit, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.258514,
+          42.341736
         ]
       }
     },
@@ -176,8 +221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.553879,
-          42.734618
+          -84.5498745,
+          42.7479739 
         ]
       }
     },
@@ -230,6 +275,21 @@
       "type": "Feature",
       "properties": {
         "date": "2025-12-05",
+        "venue": "Summerlands Brewing Company",
+        "city": "Holt, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.522069,
+          42.643566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2026-03-20",
         "venue": "Summerlands Brewing Company",
         "city": "Holt, MI United States"
       },
@@ -851,8 +911,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.618311,
-          42.721061
+          -83.784096,
+          42.5353477
         ]
       }
     },
@@ -1256,8 +1316,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.618311,
-          42.721061
+          -83.784096,
+          42.5353477
         ]
       }
     },
@@ -1796,8 +1856,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.553879,
-          42.734618
+          -84.526678,
+          42.73018154
         ]
       }
     },
@@ -2126,8 +2186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.553879,
-          42.734618
+          -84.526678,
+          42.73018154
         ]
       }
     },
@@ -2546,8 +2606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.618311,
-          42.721061
+          -83.784096,
+          42.5353477
         ]
       }
     },
@@ -2981,8 +3041,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.553879,
-          42.734618
+          -84.526678,
+          42.73018154
         ]
       }
     },
@@ -3611,8 +3671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.553879,
-          42.734618
+          -84.526678,
+          42.73018154
         ]
       }
     },
@@ -5276,8 +5336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.553879,
-          42.734618
+          -84.526678,
+          42.73018154
         ]
       }
     },
@@ -5441,8 +5501,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.553879,
-          42.734618
+          -84.526678,
+          42.73018154
         ]
       }
     },
