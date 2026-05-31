@@ -19,6 +19,21 @@
     {
       "type": "Feature",
       "properties": {
+        "date": "2026-05-30",
+        "venue": "Private Event",
+        "city": "Clarklake, MI United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.344865,
+          42.1223518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "date": "2026-02-14",
         "venue": "The Bus Stop",
         "city": "Birch Run, MI United States"
